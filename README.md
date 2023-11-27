@@ -12,7 +12,6 @@
 
 企劃書：
 - ArcheryProposal.pdf
-- Figma:[https://docs.google.com/presentation/d/1Hp83zj3mIZ1ZkqcBvtAvwh-ieWKb310XrsM5Di-LGSo/edit?usp=sharing](https://www.figma.com/file/jARCvabrizkkF55NDbP3cX/%E4%BC%81%E5%8A%83%E6%9B%B8?type=design&node-id=0%3A1&mode=design&t=mBltZO1eBVa8oTwb-1)
 
 
 個人負責內容：
